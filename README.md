@@ -6,3 +6,7 @@ Will be using links and images as well.
 Include this line in previous commit
 
 Another commit here
+
+Oops.  I pushed before I could commit ->amend.  Let's try again.
+
+Text here for amending commit.
